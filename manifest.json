@@ -1,0 +1,25 @@
+{
+  "name": "CyberPos",
+  "short_name": "CyberPos",
+  "description": "Aplikasi Kasir POS dan Manajemen Bisnis modern berbahasa Indonesia dengan kontrol stok, piutang, struk thermal, WhatsApp, arus kas, dan laporan.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/app/src/main/res/drawable/ic_cyberpos_fg.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/app/src/main/res/drawable/ic_cyberpos_fg.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

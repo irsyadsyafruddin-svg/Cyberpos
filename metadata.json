@@ -1,0 +1,6 @@
+{
+  "name": "CyberPos",
+  "description": "Aplikasi Kasir POS dan Manajemen Bisnis modern berbahasa Indonesia dengan kontrol stok, piutang, struk thermal, WhatsApp, arus kas, dan laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
